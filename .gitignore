@@ -1,0 +1,9 @@
+/images/*
+/oldstuff/*
+.env
+whitelist.db
+misc.xml
+dethbot.iml
+profiles_settings.xml
+vcs.xml
+modules.xml
